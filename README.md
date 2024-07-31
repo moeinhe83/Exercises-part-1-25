@@ -4,7 +4,7 @@ Question Number ===> 25
 
 Programming Language ===> Python
 
-Program description ===> 25th Exercise
+Program Description ===> 25th Exercise
 
 Example ===> Write A Program To Find The Average Of The Following Numbers
 
@@ -20,7 +20,7 @@ practice_25_windows.py ===> For Windows
 
 For Run ===> python practice_25_windows.py
 
-Required packages For Python ===> os / termcolor2 / pyfiglet
+Required Packages For Python ===> os / termcolor2 / pyfiglet
 
 termcolor2 ===> To install => pip install termcolor2
 
