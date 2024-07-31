@@ -22,6 +22,8 @@ For Run ===> python practice_25_windows.py
 
 Required Packages For Python ===> os / termcolor2 / pyfiglet
 
-termcolor2 ===> To install => pip install termcolor2
+termcolor2 ===> To Install => pip install termcolor2
 
-pyfiglet ===> To install => pip install pyfiglet
+pyfiglet ===> To Install => pip install pyfiglet
+
+# Finish
